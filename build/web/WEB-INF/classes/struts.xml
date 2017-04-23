@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD  
+ Struts Configuration 2.1//EN"   
+"http://struts.apache.org/dtds/struts-2.1.dtd">  
+
+<struts>  
+    <package name="default" extends="struts-default"> 
+  
+        <action name="login-input" class="org.student.actions.LoginAction" method="executelogin">  
+            <result name="executelogin">/WEB-INF/content/login.jsp</result>
+            <result name="success">/WEB-INF/content/homepage.jsp</result>  
+            <result name="error">/WEB-INF/content/login-failure.jsp</result>  
+        </action>
+        
+        <action name="login" class="org.student.actions.LoginAction" method="performLogin">  
+            <result name="loginsuccessfull">/WEB-INF/content/homepage.jsp</result>  
+            <result name="loginfailure">/WEB-INF/content/login-failure.jsp</result>  
+        </action>          
+        
+        <action name="signup-input" class="org.student.actions.SignupAction" method="executeinput">  
+            <result name="signup">/WEB-INF/content/signup.jsp</result>              
+        </action>
+        
+        <action name="signup" class="org.student.actions.SignupAction" method="performexecute">  
+            <result name="login-input" type="redirectAction">login-input</result>              
+            <result name="error">/WEB-INF/content/login-failure.jsp</result>  
+        </action>        
+        
+        <action name="studentInfo" class="org.student.actions.StudentAction" method="displayStudentList">
+            <result name="success">/WEB-INF/content/studentsdetails.jsp</result>
+        </action>
+        
+        <action name="visithomepage" class="org.student.actions.StudentAction" method="visitHomePage">
+            <result name="success">/WEB-INF/content/homepage.jsp</result>
+        </action>
+        
+        <action name="courseInfo" class="org.student.actions.CoursesAction" method="displayCourseList">
+            <result name="success">/WEB-INF/content/courses.jsp</result>
+        </action>
+        
+        <action name="deptInfo" class="org.student.actions.DepartmentAction" method="displayDepartmentList">
+            <result name="success">/WEB-INF/content/department.jsp</result>
+        </action>
+        
+        <action name="profInfo" class="org.student.actions.ProfessorAction" method="displayProfessorList">
+            <result name="success">/WEB-INF/content/professor.jsp</result>
+        </action>
+        
+    </package>  
+</struts>  

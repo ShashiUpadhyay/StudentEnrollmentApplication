@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/web.xml</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/struts.xml</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/service/StudentService.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/repository/StudentRepository.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/db.properties</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/util/DbUtil.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/login-failure.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/login.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/index.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/signup-failure.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/header.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/actions/LoginAction.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/actions/SignupAction.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/model/Students.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/signup.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/model/StudentBean.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/studentsdetails.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/actions/StudentAction.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/department.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/homepage.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/courses.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/WEB-INF/content/professor.jsp</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/WebContent/bootstrap/css/bootstrap.css</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/actions/CoursesAction.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/actions/DepartmentAction.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/actions/ProfessorAction.java</file>
+        <file>file:/C:/Users/shashi.upadhyay/Desktop/NetBeansProjects/StudentEnrollmentWithStruts-master/StudentEnrollmentWithStruts-master/src/org/student/model/Courses.java</file>
+    </open-files>
+</project-private>
